@@ -1,0 +1,5 @@
+crewai
+crewai_tools
+pymupdf
+langchain_google_genai
+streamlit
